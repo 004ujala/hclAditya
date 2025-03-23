@@ -1,0 +1,22 @@
+/* Contact.css */
+
+.a1{
+    
+    /* padding: 50px 20px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100%;
+  }
+a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+.rounded{
+  width: 40vw;
+}

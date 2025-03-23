@@ -1,0 +1,26 @@
+.home {
+    height: 100vh;
+    background: url("/HCL Tech Lucknow Front.jpg") no-repeat center center / cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.home .text-1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+.home .text-2 {
+    font-size: 30px;
+}
+.home .text-3 {
+    font-size: 25px;
+}
+  
+.home .home-content {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}

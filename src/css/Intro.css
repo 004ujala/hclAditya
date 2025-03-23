@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+.title {
+  font-size: 35px;
+  font-weight: bolder;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.intro{
+  width: 100%;
+  padding: 50px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* .a1{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  align-items:center;
+  margin-top: 16px;
+} */
+.a2{
+  height: 40vh;
+  width: 30vw;
+  /* background-color: black; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.a2 p {
+  font-weight: bolder;
+  font-size: larger;
+
+  /* Text wrap control */
+  overflow-wrap: break-word;   
+  word-wrap: break-word;       
+
+  /* Box sizing */
+  box-sizing: border-box;   
+  overflow: hidden;   
+}
+
