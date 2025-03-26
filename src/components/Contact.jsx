@@ -43,19 +43,19 @@ const Contact = () => {
                                 <h2 className='text-center'>Follow Us</h2>
                                 <div className='container d-flex flex-row align-items-center justify-content-around'>
                                     <a href="https://www.instagram.com/hcltech/" target="_blank" rel="noopener noreferrer">
-                                        <FontAwesomeIcon icon={faInstagram} size="2x" />
+                                        <FontAwesomeIcon icon={faInstagram} size="lg" />
                                     </a>
                                     <a href="https://www.linkedin.com/company/hcltech" target="_blank" rel="noopener noreferrer">
-                                        <FontAwesomeIcon icon={faLinkedinIn} size="2x" />
+                                        <FontAwesomeIcon icon={faLinkedinIn} size="lg" />
                                     </a>
                                     <a href="https://x.com/hcltech" target="_blank" rel="noopener noreferrer">
-                                        <FontAwesomeIcon icon={faTwitter} size="2x" />
+                                        <FontAwesomeIcon icon={faTwitter} size="lg" />
                                     </a>
                                     <a href="https://www.youtube.com/user/HCLTechtube" target="_blank" rel="noopener noreferrer">
-                                        <FontAwesomeIcon icon={faYoutube} size="2x" />
+                                        <FontAwesomeIcon icon={faYoutube} size="lg" />
                                     </a>
                                     <a href="https://www.facebook.com/HCLTechOfficial" target="_blank" rel="noopener noreferrer">
-                                        <FontAwesomeIcon icon={faFacebook} size="2x" />
+                                        <FontAwesomeIcon icon={faFacebook} size="lg" />
                                     </a>
                                 </div>
                             </div>
