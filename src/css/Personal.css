@@ -1,73 +1,69 @@
 * {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
   }
-.title {
+  
+  html, body {
+    overflow-x: hidden;
+    width: 100%;
+  }
+  
+  .intro{
+    margin-top: 25px;
+    padding: 10px;
+  }
+  
+  .title {
     font-size: 35px;
-    font-weight: 600;
-    position: relative;
-    display: inline-block;
-    text-align: center;
-}
-
-.intro{
-    width: 100%;
-    padding: 50px 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-.carousel{
-    width: 30vw;
-    height:40vh;
-}
-
-.carousel-img {
-    width: 30vw !important;  
-    height: 40vh !important;               
-    object-fit: cover;   
-    border-radius: 12px 12px 12px 12px; 
-  }
-  
-.blk{
-    display: block;
-}
-.center{
-    text-align: center;
-}
-.bold{
     font-weight: bolder;
-}
-.mt1{
-    margin-top: 16px;
-}
-.a1{
-    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .a1{
+    margin-top:16px;
+  }
+  .carousel{
+    width: 400px;
+    height: 400px;
+  }
+  .carousel-img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+  }
+  .a2{
+    width: 400px;
+    height: 400px;
     display: flex;
-    flex-direction: row;
-    justify-content:space-around;
-    align-items:center;
-    margin-top: 16px;
-}
-.a2{
-    height: 40vh;
-    width: 30vw;
-    /* background-color: black; */
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-.a2 p {
-    font-weight: bolder;
-    font-size: larger;
-  
-    /* Text wrap control */
-    overflow-wrap: break-word;   
-    word-wrap: break-word;       
-  
-    /* Box sizing */
-    box-sizing: border-box;   
-    overflow: hidden;   
   }
+  .a2 p{
+    font-weight: bolder;
+    font-size: 1.2rem;
+  }
+  
+  .carousel-img{
+    border-radius: 14px;
+  }
+  
+  @media(max-width:450px){
+    .carousel{
+      width: 340px;
+      height:340px;
+    }
+    .carousel-img{
+      width: 340px;
+      height: 340px;
+    }
+    .a2{
+      width:340px;
+      height: 340px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  
   

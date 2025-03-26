@@ -1,22 +1,40 @@
-/* Contact.css */
+/* Ensures container takes full width but doesn't overflow */
+.a1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+  padding: 20px; /* Adds spacing for better appearance */
+}
 
-.a1{
-    
-    /* padding: 50px 20px; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    height: 100%;
-  }
-a {
-    text-decoration: none;
+/* Make contact card responsive */
+.rounded {
+  width: 90%; /* Default width for small screens */
+  max-width: 600px; /* Limits width on larger screens */
+}
+
+/* Adjust text alignment and icon spacing for smaller screens */
+@media (max-width: 576px) {
+  .rounded {
+      width: 95%;
+      padding: 15px; /* Reduces padding for small screens */
   }
   
-  a:hover {
-    text-decoration: underline;
+  .d-flex {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
   }
-.rounded{
-  width: 40vw;
+
+  .follow .container {
+      flex-wrap: wrap;
+      gap: 10px; /* Space between social icons */
+  }
+  
+  .follow a {
+      font-size: 1.5rem; /* Adjusts icon size */
+  }
 }

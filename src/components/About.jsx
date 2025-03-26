@@ -3,9 +3,9 @@ import '../css/About.css';
 
 const About = () => {
     return (
-        <div className="about mt-3">
+        <div className="about ">
             <div className="about max-width" id="About">
-                <div className="about-content">
+                <div className="d-flex flex-column flex-xl-row justify-content-center align-items-center about-content">
                     <div className="column left">
                         <img src="/HCL Tech Lucknow Drone.jpg" alt="HCLTech Lucknow" />
                     </div>

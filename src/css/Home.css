@@ -1,11 +1,14 @@
 .home {
-    height: 100vh;
+    height: calc(100vh - 8vh - 48px);
+    width: 100vw;
+
     background: url("/HCL Tech Lucknow Front.jpg") no-repeat center center / cover;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     color: white;
+    background-color: yellow;
 }
 
 .home .text-1 {

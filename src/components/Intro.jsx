@@ -4,13 +4,13 @@ import '../css/Intro.css'
 const Intro = () => {
     return (
         <>
-            <div className="intro container">
+            <div className="intro">
                 <h2 className='title'>Introduction to HCLTech SEZ Lucknow</h2>
                 <div className="container a1 d-flex flex-lg-row flex-column justify-content-around align-items-center">
                     <div id="carouselExampleControlsNoTouching1" className="carousel slide " data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/intro/over/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/intro/over/1.jpg" className="d-block img-fluid w-100 carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
                                 <img src="/intro/over/2.jpg" className="d-block carousel-img" alt="..." />
@@ -76,9 +76,9 @@ const Intro = () => {
                             <span className="visually-hidden">Next</span>
                         </button>
                     </div>
-                    <div className="a2"><p>Uttar Pradesh is emerging as a major hub this Diwali for innovation, infrastructure, and investment, with a booming IT sector, record-breaking metro and airport expansions, and massive investments in semiconductor manufacturing and AI. With top institutions, global businesses, and advanced connectivity, the state is set to become a leading economic powerhouse. 🚀🌍</p></div>
+                    <div className="a2"><p>Uttar Pradesh is emerging as a major hub this Diwali for innovation, infrastructure, and investment, and massive investments in semiconductor manufacturing and AI. With top institutions, global businesses, and advanced connectivity, the state is set to become a leading economic powerhouse. 🚀🌍</p></div>
                 </div>
-                <div className="container a1 d-flex flex-lg-row flex-column justify-content-around align-items-center">
+                <div className="container a1 d-flex flex-lg-row flex-column flex-sm-column justify-content-around align-items-center">
                     <div id="carouselExampleControlsNoTouching4" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">

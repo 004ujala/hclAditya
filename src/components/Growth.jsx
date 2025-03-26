@@ -3,7 +3,7 @@ import '../css/Growth.css'
 const Growth = () => {
     return (
         <>
-            <div className="intro container">
+            <div className="intro">
                 <h2 className='title'>Growth Story of HCL Tech Lucknow</h2>
                 <div className="container a1 d-flex flex-lg-row flex-column justify-content-around align-items-center">
                     <div id="carouselExampleControlsNoTouching1" className="carousel slide " data-bs-touch="false" data-bs-interval="false">
