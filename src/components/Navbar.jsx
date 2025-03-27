@@ -14,11 +14,9 @@ const Navbar = () => {
         if (isDarkMode) {
             document.body.style.backgroundColor = 'black';
             document.body.style.color = 'white';
-            document.documentElement.style.setProperty('--contact-color', 'black');
         } else {
-            document.body.style.backgroundColor = '';
-            document.body.style.color = '';
-            document.documentElement.style.setProperty('--contact-color', '');
+            document.body.style.backgroundColor = 'white';
+            document.body.style.color = 'black';
         }
     }, [isDarkMode]);
 
