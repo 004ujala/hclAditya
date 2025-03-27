@@ -1,4 +1,8 @@
 /* Ensures container takes full width but doesn't overflow */
+.contact{
+  color: black;
+}
+
 .a1 {
   display: flex;
   flex-direction: column;
