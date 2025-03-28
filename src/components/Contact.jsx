@@ -3,6 +3,7 @@ import '../css/Contact.css';
 import { faInstagram, faLinkedinIn, faTwitter, faYoutube, faFacebook } from '@fortawesome/free-brands-svg-icons';
 import { faBuilding, faLocationDot, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import MapCard from './MapCard';
 
 const Contact = () => {
     return (
@@ -62,6 +63,10 @@ const Contact = () => {
                         </div>
                     </div>
                 </div>
+            </div>
+            <h1>Reach Us</h1>
+            <div className="map mt-2">
+                <MapCard />
             </div>
         </div>
     );
