@@ -14,9 +14,15 @@ const Navbar = () => {
         if (isDarkMode) {
             document.body.style.backgroundColor = 'black';
             document.body.style.color = 'white';
+            document.querySelectorAll(".cards").forEach(card => {
+                card.style.color = "white";
+            });
         } else {
             document.body.style.backgroundColor = 'white';
             document.body.style.color = 'black';
+            document.querySelectorAll(".cards").forEach(card => {
+                card.style.color = "black";
+            });
         }
     }, [isDarkMode]);
 
