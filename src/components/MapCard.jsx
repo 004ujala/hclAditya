@@ -3,7 +3,7 @@ import '../css/MapCard.css'
 const MapCard = ({ src, steps }) => {
     return (
         <>
-            <div className="cards mt-2" >
+            <div className="card cards mt-2" >
                 <img src={src} className="card-img-top" alt="..." />
                 <div className="card-body">
                     {

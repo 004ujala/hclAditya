@@ -31,12 +31,12 @@ const Contact = () => {
 
     return (
         <div className="a1 contact">
-            <div className="detail">
+            <div className="detail contDetail">
                 <div className="container mt-4 d-flex justify-content-center">
                     <div className="shadow-lg rounded p-4 bg-white">
                         {/* Office Info */}
                         <div className="mb-4">
-                            <div className="d-flex align-items-center mb-3">
+                            <div className="ct d-flex align-items-center mb-3">
                                 <FontAwesomeIcon icon={faBuilding} className="me-3 text-primary" />
                                 <div>
                                     <strong>Office</strong><br />
@@ -45,7 +45,7 @@ const Contact = () => {
                             </div>
 
                             {/* Address */}
-                            <div className="d-flex align-items-center mb-3">
+                            <div className="ct d-flex align-items-center mb-3">
                                 <FontAwesomeIcon icon={faLocationDot} className="me-3 text-danger" />
                                 <div>
                                     <strong>Address</strong><br />
@@ -56,7 +56,7 @@ const Contact = () => {
                             {/* Contact */}
                             <div className="d-flex align-items-center mb-3">
                                 <FontAwesomeIcon icon={faEnvelope} className="me-3 text-info" />
-                                <div>
+                                <div className='ct'>
                                     <strong>Reach Us</strong><br />
                                     <a href="https://www.hcltech.com/" target="_blank" rel="noreferrer">www.hcltech.com</a>
                                 </div>
@@ -64,7 +64,7 @@ const Contact = () => {
 
                             {/* Social Media */}
                             <div className="follow">
-                                <h2 className='text-center'>Follow Us</h2>
+                                <h2 className='text-center ct'>Follow Us</h2>
                                 <div className='container d-flex flex-row align-items-center justify-content-around'>
                                     <a href="https://www.instagram.com/hcltech/" target="_blank" rel="noopener noreferrer">
                                         <FontAwesomeIcon icon={faInstagram} size="lg" />
@@ -87,7 +87,8 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-            <h1>Reach Us</h1>
+            <h1 className='ReachUs' >Reach Us</h1>
+
             <div className="container row map mt-2">
                 <div className="d-flex justify-content-center align-items-center col-lg-4 col-sm-12">
                     <MapCard src="/reachus/bus.jpg" steps={bus} /></div>

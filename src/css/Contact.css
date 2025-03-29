@@ -1,7 +1,10 @@
 /* Ensures container takes full width but doesn't overflow */
-.contact{
+/* .contact{
   color: black;
-}
+} */
+ .ct{
+  color: black;
+ }
 
 .a1 {
   display: flex;

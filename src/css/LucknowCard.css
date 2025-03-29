@@ -1,14 +1,15 @@
-.cards {
+.luckCard {
     width: 300px;
-    height: 900px;
+    height: 500px;
     cursor: pointer;
+    background-color: white;
     color: black;
     transition: all 0.3s ease-in-out; 
 }
 
-.cards:hover {
+.luckCard:hover {
     width: 350px;
-    height: 1100px;
+    height: 550px;
     font-size: larger;
 }
 
