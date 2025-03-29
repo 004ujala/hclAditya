@@ -1,8 +1,14 @@
 .about{
   width: 100vw;
     height: calc(100vh-8vh-48px-50px);
-    margin-top: 50px;
-    padding: 50px;
+    margin-top: 25px;
+    padding: 10px;
+  }
+  .title {
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 20px;
   }
   
    .about-content{
@@ -24,7 +30,7 @@
   .left img{
     width: 40vw;
     height: auto;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 14px;
   }
 
@@ -36,7 +42,7 @@
     .left img{
       width: 340px;
       height: 340px;
-      object-fit: cover;
+      object-fit: contain;
       border-radius: 14px;
     }
     .right{
