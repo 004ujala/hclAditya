@@ -72,6 +72,9 @@ const Navbar = () => {
                         <li className="nav-item">
                             <Link className="nav-link" to="/lucknow">Lucknow</Link>
                         </li>
+                        <li className="nav-item" >
+                            <Link className="nav-link" to="/blog" >Blog</Link>
+                        </li>
                     </ul>
                     <div className="d-flex flex-row justify-content-start">
                         <button

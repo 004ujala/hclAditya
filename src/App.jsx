@@ -13,6 +13,8 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import './App.css'
 import Lucknow from './components/Lucknow'
+import Blog from './components/Blog'
+
 const App = () => {
   return (
     <Router>
@@ -35,6 +37,7 @@ const App = () => {
             <Route exact path="/personal" element={<Personal />} />
             <Route exact path="/contact" element={<Contact />} />
             <Route exact path="/lucknow" element={<Lucknow />} />
+            <Route exact path="/blog" element={<Blog />} />
           </Routes>
         </main>
 

@@ -58,7 +58,7 @@ const Contact = () => {
                                 <FontAwesomeIcon icon={faEnvelope} className="me-3 text-info" />
                                 <div className='ct'>
                                     <strong>Reach Us</strong><br />
-                                    <a href="https://www.hcltech.com/" target="_blank" rel="noreferrer">www.hcltech.com</a>
+                                    <a href="https://hclitcitylucknow.com/" target="_blank" rel="noreferrer">https://hclitcitylucknow.com/</a>
                                 </div>
                             </div>
 

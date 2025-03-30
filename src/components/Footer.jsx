@@ -7,9 +7,9 @@ const Footer = () => {
             <p>
                 <b>Created by </b>
                 <a href="https://www.linkedin.com/in/adityanarayansharma/" target="_blank" rel="noopener noreferrer">
-                    <b>Aditya Narayan Sharma</b>
+                    <b>Aditya Narayan Sharma </b>
                 </a>
-                | © <b>2024-25 All rights reserved.</b>
+                | © <b>2025-26 All rights reserved.</b>
             </p>
         </footer>
     );
