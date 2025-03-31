@@ -10,13 +10,13 @@ const Intro = () => {
                     <div id="carouselExampleControlsNoTouching1" className="carousel slide " data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/intro/over/1.jpg" className="d-block img-fluid w-100 carousel-img" alt="..." />
+                                <img src="/introImgFol/over/1.jpg" className="d-block img-fluid w-100 carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/over/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/over/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/over/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/over/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching1" data-bs-slide="prev">
@@ -34,13 +34,13 @@ const Intro = () => {
                     <div id="carouselExampleControlsNoTouching2" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/intro/drone/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/drone/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/drone/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/drone/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/drone/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/drone/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching2" data-bs-slide="prev">
@@ -58,13 +58,13 @@ const Intro = () => {
                     <div id="carouselExampleControlsNoTouching3" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/intro/diwali/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/diwali/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/diwali/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/diwali/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/diwali/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/diwali/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching3" data-bs-slide="prev">
@@ -82,13 +82,13 @@ const Intro = () => {
                     <div id="carouselExampleControlsNoTouching4" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/intro/tier/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/tier/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/tier/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/tier/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/intro/tier/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/introImgFol/tier/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching4" data-bs-slide="prev">

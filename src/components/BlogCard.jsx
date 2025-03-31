@@ -11,7 +11,7 @@ const BlogCard = ({ src, desc }) => {
 
             {/* Right side - Image */}
             <div className="rightBlogCard">
-                <img src={"/blog/" + src} alt="Blog" />
+                <img src={"/blogImgFol/" + src} alt="Blog" />
             </div>
         </div>
     );

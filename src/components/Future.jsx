@@ -8,13 +8,13 @@ const Future = () => {
                 <div id="carouselExampleControlsNoTouching1" className="carousel slide " data-bs-touch="false" data-bs-interval="false">
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="/future/ai/1.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/ai/1.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/ai/2.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/ai/2.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/ai/3.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/ai/3.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching1" data-bs-slide="prev">
@@ -32,13 +32,13 @@ const Future = () => {
                 <div id="carouselExampleControlsNoTouching2" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="/future/tl/1.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/tl/1.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/tl/2.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/tl/2.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/tl/3.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/tl/3.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching2" data-bs-slide="prev">
@@ -56,13 +56,13 @@ const Future = () => {
                 <div id="carouselExampleControlsNoTouching3" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="/future/fv/1.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/fv/1.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/fv/2.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/fv/2.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/fv/3.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/fv/3.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching3" data-bs-slide="prev">
@@ -80,13 +80,13 @@ const Future = () => {
                 <div id="carouselExampleControlsNoTouching4" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="/future/ge/1.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/ge/1.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/ge/2.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/ge/2.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                         <div className="carousel-item">
-                            <img src="/future/ge/3.jpg" className="d-block carousel-img" alt="..." />
+                            <img src="/futureImgFol/ge/3.jpg" className="d-block carousel-img" alt="..." />
                         </div>
                     </div>
                     <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching4" data-bs-slide="prev">

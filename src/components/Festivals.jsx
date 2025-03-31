@@ -9,13 +9,13 @@ const Festivals = () => {
                     <div id="carouselExampleControlsNoTouching1" className="carousel slide " data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/festival/sc/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/sc/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/sc/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/sc/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/sc/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/sc/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching1" data-bs-slide="prev">
@@ -33,13 +33,13 @@ const Festivals = () => {
                     <div id="carouselExampleControlsNoTouching2" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/festival/wp/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/wp/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/wp/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/wp/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/wp/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/wp/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching2" data-bs-slide="prev">
@@ -57,13 +57,13 @@ const Festivals = () => {
                     <div id="carouselExampleControlsNoTouching3" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/festival/fc/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/fc/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/fc/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/fc/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/fc/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/fc/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching3" data-bs-slide="prev">
@@ -81,13 +81,13 @@ const Festivals = () => {
                     <div id="carouselExampleControlsNoTouching4" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/festival/if/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/if/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/if/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/if/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/festival/if/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/festivalImgFol/if/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching4" data-bs-slide="prev">

@@ -91,11 +91,11 @@ const Contact = () => {
 
             <div className="container row map mt-2">
                 <div className="d-flex justify-content-center align-items-center col-lg-4 col-sm-12">
-                    <MapCard src="/reachus/bus.jpg" steps={bus} /></div>
+                    <MapCard src="/reachusImgFol/bus.jpg" steps={bus} /></div>
                 <div className="d-flex justify-content-center align-items-center col-lg-4 col-sm-12">
-                    <MapCard src="reachus/railway.jpg" steps={railway} /></div>
+                    <MapCard src="reachusImgFol/railway.jpg" steps={railway} /></div>
                 <div className="d-flex justify-content-center align-items-center col-lg-4 col-sm-12">
-                    <MapCard src="reachus/airport.jpg" steps={airport} /></div>
+                    <MapCard src="reachusImgFol/airport.jpg" steps={airport} /></div>
 
             </div>
         </div>

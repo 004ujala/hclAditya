@@ -4,7 +4,7 @@ import "../css/Lucknow.css"
 
 const Lucknow = () => {
     const images = [
-        "/lucknow/1.jpg", "/lucknow/2.jpg", "/lucknow/3.png", "/lucknow/4.jpg", "/lucknow/5.png", "/lucknow/6.jpg", "/lucknow/7.png", "/lucknow/8.jpg", "/lucknow/9.jpg", "/lucknow/10.jpg", "/lucknow/11.jpg", "/lucknow/12.jpg", "/lucknow/13.jpg", "/lucknow/14.jpg", "/lucknow/15.jpg"
+        "/lucknowImgFol/1.jpg", "/lucknowImgFol/2.jpg", "/lucknowImgFol/3.png", "/lucknowImgFol/4.jpg", "/lucknowImgFol/5.png", "/lucknowImgFol/6.jpg", "/lucknowImgFol/7.png", "/lucknowImgFol/8.jpg", "/lucknowImgFol/9.jpg", "/lucknowImgFol/10.jpg", "/lucknowImgFol/11.jpg", "/lucknowImgFol/12.jpg", "/lucknowImgFol/13.jpg", "/lucknowImgFol/14.jpg", "/lucknowImgFol/15.jpg"
     ];
 
     const descriptions = [

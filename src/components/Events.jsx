@@ -10,13 +10,13 @@ const Events = () => {
                     <div id="carouselExampleControlsNoTouching1" className="carousel slide " data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/events/meet/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/meet/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/meet/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/meet/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/meet/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/meet/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching1" data-bs-slide="prev">
@@ -34,13 +34,13 @@ const Events = () => {
                     <div id="carouselExampleControlsNoTouching2" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/events/hw/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/hw/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/hw/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/hw/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/hw/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/hw/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching2" data-bs-slide="prev">
@@ -58,13 +58,13 @@ const Events = () => {
                     <div id="carouselExampleControlsNoTouching3" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/events/spark/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/spark/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/spark/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/spark/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/spark/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/spark/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching3" data-bs-slide="prev">
@@ -82,13 +82,13 @@ const Events = () => {
                     <div id="carouselExampleControlsNoTouching4" className="carousel slide" data-bs-touch="false" data-bs-interval="false">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
-                                <img src="/events/balance/1.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/balance/1.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/balance/2.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/balance/2.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                             <div className="carousel-item">
-                                <img src="/events/balance/3.jpg" className="d-block carousel-img" alt="..." />
+                                <img src="/eventsImgFol/balance/3.jpg" className="d-block carousel-img" alt="..." />
                             </div>
                         </div>
                         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching4" data-bs-slide="prev">
